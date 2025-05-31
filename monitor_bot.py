@@ -6,7 +6,7 @@ from telegram import Bot
 import os
 
 URL = 'https://www.district.in/events/tata-ipl-2025-finals-match-in-ahmedabad-june03-buy-tickets'
-CHECK_INTERVAL = 10  # seconds
+CHECK_INTERVAL = 1  # seconds
 BOT_TOKEN = '7722758245:AAHNticXObc67P5ayQTm2w2Yi6W0JIwIX_c'
 
 bot = Bot(token=BOT_TOKEN)
